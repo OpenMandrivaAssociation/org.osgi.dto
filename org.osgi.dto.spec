@@ -1,6 +1,6 @@
 Name: org.osgi.dto
 Version: 1.1.0
-Release: 1
+Release: 2
 Group: Development/Java
 Summary: An implementation of the org.osgi.dto API
 Source0: https://repo1.maven.org/maven2/org/osgi/org.osgi.dto/%{version}/org.osgi.dto-%{version}-sources.jar
