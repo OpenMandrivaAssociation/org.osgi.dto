@@ -1,3 +1,6 @@
 sources:
+  org.osgi.dto-1.1.1-sources.jar: 5e7db855412a0598d8eadf59d5e2db2c9d699899
+  org.osgi.dto-LICENSE: 92170cdc034b2ff819323ff670d3b7266c8bffcd
+removed_sources:
   org.osgi.dto-1.1.0.pom: e133b93e3b6244f34cb904eeaa5cf6069afd1ec4
   org.osgi.dto-1.1.0-sources.jar: 7a5c3dea6dc88547cab29854c6d3d9fc09b338ae
